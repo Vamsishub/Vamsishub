@@ -12,7 +12,7 @@ Statistical Techniques: Linear Regression, A/B Testing, Time Series Analysis
 
 🌟 I’m currently seeking opportunities where I can contribute my analytical skills to solve business challenges and drive growth. Let’s connect!
 
-📧 vamsidharreddyjannapally@gmail.com | LinkedIn 
+📧 vamsidharreddyjannapally@gmail.com
 
 <!---
 Vamsishub/Vamsishub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
