@@ -1,5 +1,5 @@
 
-👋 Hi there! I’m Vamsidhar Jannapally, a passionate Data Analyst and Business Analyst with over 5 years of experience in turning complex data into actionable insights that drive business success. My expertise lies in Operational Planning, Process Improvement, and Supply Chain Management, where I’ve consistently leveraged data analytics to enhance efficiency and productivity.
+👋 Hi there! I’m Vamsidhar Jannapally, a passionate Data Analyst  with over 5 years of experience in turning complex data into actionable insights that drive business success. My expertise lies in Operational Planning, Process Improvement, and Supply Chain Management, where I’ve consistently leveraged data analytics to enhance efficiency and productivity.
 
 🔍 My journey in analytics has equipped me with a robust skill set, including:
 
